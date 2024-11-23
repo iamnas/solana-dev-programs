@@ -15,8 +15,8 @@
 #### Clone the repo
 
 ```shell
-git clone <repo-url>
-cd <repo-name>
+git clone https://github.com/iamnas/solana-dev-programs.git
+cd solana-dev-programs/voting-dapp
 ```
 
 #### Install Dependencies
